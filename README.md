@@ -4,7 +4,7 @@ If you're like me you do not want the CSS library you're using to make any desig
 This library contains only a grid system and nothing else. If you're coming from bootstrap it is very straightforward to use.
 
 ## Getting started
-Download the <a href="dependen.css" download>CSS file</a> and link it in your html file.
+Download the <a href="https://raw.githubusercontent.com/Istanful/dependencss/master/dependen.css" download>CSS file</a> and link it in your html file.
 
 Done!
 
@@ -49,3 +49,7 @@ which occupies half the width of a row.
   </div>
 </div>
 ```
+
+You can combine columns which screen sizes.
+If you define a screen size the column will occupy the
+entire row once the screen becomes smaller.
