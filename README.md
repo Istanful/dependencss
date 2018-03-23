@@ -1,8 +1,12 @@
 # DependenCSS
-
 ## YOU are the designer
 If you're like me you do not want the CSS library you're using to make any design decisions.
-This repo contains only a grid system and nothing else. If you're coming from bootstrap it is very straightforward to use.
+This library contains only a grid system and nothing else. If you're coming from bootstrap it is very straightforward to use.
+
+## Getting started
+Download the <a href="dependen.css" download>CSS file</a> and link it in your html file.
+
+Done!
 
 ### Responsiveness
 DependenCSS is made to work great on phones, which is why you can combine some classes with
